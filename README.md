@@ -73,7 +73,7 @@ options.
 
 In case your form's field names contain HTML entities (like
 `Stra&#223;e Hausnummer`), make sure you unescape those before using them, i.e.
-`CGI.unescapeHTML(name)`.  Thanks to @phoet for figuring this out in #65.
+`CGI.unescapeHTML(name)`.  Thanks to @phoet for figuring this out in [#65](https://github.com/jkraemer/pdf-forms/issues/65).
 
 
 ### Prior Art
